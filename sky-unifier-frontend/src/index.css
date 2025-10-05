@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import "tailwindcss";
+
+/* index.css or global CSS */
+
+.glow {
+  transition: all 0.3s;
+}
+
+.glow:hover {
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.5);
+}
+
+/* Simple CSS Starfield */
+.stars, .stars2, .stars3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.stars {
+  background: #000 url(https://i.imgur.com/Yb48z4B.png) repeat top center;
+  z-index: -3;
+  animation: twinkle 50s linear infinite;
+}
+
+.stars2 {
+  background: transparent url(https://i.imgur.com/Yb48z4B.png) repeat top center;
+  z-index: -2;
+  opacity: 0.5;
+  animation: twinkle 100s linear infinite;
+}
+
+.stars3 {
+  background: transparent url(https://i.imgur.com/Yb48z4B.png) repeat top center;
+  z-index: -1;
+  opacity: 0.3;
+  animation: twinkle 150s linear infinite;
+}
+
+@keyframes twinkle {
+  0% { opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { opacity: 0.8; }
+}
+
+/* Note: Replace star image URLs with actual starfield images or use CSS particles for better animation */
