@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+aiofiles
+pillow
+numpy
+astropy
+astroquery
+reproject
