@@ -59,6 +59,8 @@ Additional Links:
 
 📽️ Check out our Google Slides presentation for the project by clicking [HERE](https://docs.google.com/presentation/d/1MV_70bZ28MmAI48bAvA5TX48CvUPa-vh/edit?usp=sharing&ouid=108385564377944947346&rtpof=true&sd=true)  (no login required.)
 
+🎥 Check out our video demonstration for the project by clicking [HERE](https://youtu.be/Ob8ioeTKRCY?si=zrKvHkNWpivZkLHI)
+
 "We kindly request fellow participants to respect the originality of our work and refrain from copying any part of our project. Our team has put in a lot of effort and creativity to develop this idea, and we encourage everyone to showcase their unique contributions."
 
 Thanks ❤️ for taking the time to go through this.
