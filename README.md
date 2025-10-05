@@ -12,7 +12,7 @@ Impact: Helps researchers and educators explore full-spectrum astronomy easily.
 
 How to start : 
 
-Below is the full step-by-step setup guide — all commands ready to copy–paste 👇
+Below is the full step-by-step setup guide  👇
 
 🛰️ 1️⃣ Clone the Repository
 cd Sky-Unifire-NASA
@@ -43,6 +43,7 @@ uvicorn sky_unifier_fastapi:app --reload --host 0.0.0.0 --port 8000
 ✅ Backend now runs at 👉 http://localhost:8000
 
 ⚡ 3️⃣ Frontend Setup (React + Vite)
+
 🔹 Step 3.1 — Go to frontend folder
 cd ../sky-unifier-frontend
 
