@@ -18,6 +18,7 @@ Below is the full step-by-step setup guide — all commands ready to copy–past
 cd Sky-Unifire-NASA
 
 🧠 2️⃣ Backend Setup (Python + FastAPI)
+
 🔹 Step 2.1 — Go to backend folder
 cd "Sky Unifire"   // if this not work 
 or  
@@ -53,3 +54,11 @@ npm run dev
 
 
 ✅ Frontend now runs at 👉 http://localhost:5173
+
+Additional Links:
+
+📽️ Check out our Google Slides presentation for the project by clicking HERE  (no login required.)
+
+"We kindly request fellow participants to respect the originality of our work and refrain from copying any part of our project. Our team has put in a lot of effort and creativity to develop this idea, and we encourage everyone to showcase their unique contributions."
+
+Thanks ❤️ for taking the time to go through this.
